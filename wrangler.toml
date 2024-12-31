@@ -10,5 +10,5 @@ enabled = true
 head_sampling_rate = 1
 
 [vars]
-USER_ID = "c55ba35f-12f6-436e-a451-4ce982c4ec1c"
-PROXY_IP = ""
+USER_ID = "76bee1cf-3881-4255-9d35-9104d245a1aa"
+PROXY_IP = "41.223.246.148"
